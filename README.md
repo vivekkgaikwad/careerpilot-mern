@@ -1,3 +1,9 @@
+# CareerPilot – AI-Assisted Career Guidance System
+
+CareerPilot is a MERN-based application designed to guide students
+towards suitable career paths using skill-based assessment and
+rule-driven recommendations.
+
 # Self_Assistant_AI_Web_App
 
 AI Career Guidance and Knowledge Testing Web Application.
@@ -92,3 +98,5 @@ The web app is live on : https://self-assistant-ai-web-app.vercel.app/
 ## Note
 
 - Get Gemini API Key go to Google Ai Studio - https://aistudio.google.com/app/apikey
+
+## Contact - Vivek Gaikwad (www.linkedin.com/in/vivekgaikwad38)
